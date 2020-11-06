@@ -1,0 +1,3 @@
+Guja, Markozashvili, Normal, 20
+Dato, Markozashvili, Rich, 21
+Gio, Markozashvili, Poor, 22
